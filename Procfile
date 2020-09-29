@@ -1,1 +1,1 @@
-we: node app.js
+we: node ./bin/www
